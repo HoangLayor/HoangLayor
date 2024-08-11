@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello
 
 <!--
 **HoangLayor/HoangLayor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Posts and Telecommunications Institute of Technology
-- 🌱 I’m currently learning about Machine Learning Algorithm, Neural Network models
+- 🔭 I am currently a third-year student at Posts and Telecommunications Institute of Technology
+- 🌱 I'm learning about ML Algorithms, NNs, frameworks and new trends of CV, NLP, GenAI
