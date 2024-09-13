@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owen718&label=Profile%20views&color=0e75b6&style=flat" alt="owen718" /> </p>
 
-- 🧑‍🎓 I am currently a third-year student at Posts and Telecommunications Institute of Technology
+- 🧑‍🎓 I am currently a third-year student at ***Posts and Telecommunications Institute of Technology***
   
 - 🔭 I'm learning about ML Algorithms, NNs, frameworks and new trends of CV, NLP, GenAI
 
