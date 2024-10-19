@@ -7,7 +7,7 @@
   
 - 🔭 I'm learning about CNN, framework ( pytorch, streamlit ) <<*10/18/2024*>>
 
-- 📄 Know about me from  [My Homepage]([https://github.com/HoangLayor]).
+- 📄 Know about me from  [My Homepage](https://github.com/HoangLayor).
 
 <p align="left">
 </p>
