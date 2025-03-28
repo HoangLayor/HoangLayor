@@ -5,7 +5,7 @@
 
 - 🧑‍🎓 I am currently a third-year student at ***Posts and Telecommunications Institute of Technology***
   
-- 🔭 I'm learning about *DeepLearning*
+- 🔭 
 
 - 📄 Know about me from  [My Homepage](https://github.com/HoangLayor).
 
