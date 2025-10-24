@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoanglayor&label=Profile%20views&color=0e75b6&style=flat" alt="hoanglayor" /> </p>
 
-- 🧑‍🎓 I am currently a third-year student at ***Posts and Telecommunications Institute of Technology***
+- 🧑‍🎓 I am currently a fourth-year student at ***Posts and Telecommunications Institute of Technology***
 - 🔭 Passionate about **Artificial Intelligence**, especially in **Machine Learning**, **Deep Learning** and **Gen AI**.
 - 💡 I’m currently learning, developing AI projects, and conducting research in data-driven technologies.  
 
